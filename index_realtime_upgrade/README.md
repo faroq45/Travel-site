@@ -1,5 +1,5 @@
 # Responsive Travel Website 🌊
-## [Watch it on youtube](https://youtu.be/YzRDHxbw1RU)
+## [Watch it on youtube](https://youtube.com/@er.farooq?si=ujPVRpfsl5wo16nD)
 ###  Responsive Travel Website 🌊
 
 - Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
@@ -10,4 +10,3 @@
 
 Join the channel to see more videos like this. [Farooq ah](https://www.youtube.com/c/Farooq-45)
 
-![travel-website](/preview.png)
